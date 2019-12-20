@@ -1,0 +1,8 @@
+.DS_Store
+AndelUF.png
+MKlöner.png
+MKslön.png
+Rplot.png
+AndelUF.pdf
+MKlöner.pdf
+MKslön.pdf
